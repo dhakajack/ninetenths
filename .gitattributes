@@ -1,1 +1,2 @@
-*.inf linguist-language=Inform 6
+Ninetenths.inform/Source/*.inf linguist-language=Inform 6
+Ninetenths.inform/Source/*.h linguist-language=Inform 6
