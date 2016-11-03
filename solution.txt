@@ -1,0 +1,69 @@
+possess zombie
+gnaw off right arm
+d
+d
+w
+w
+w
+get potion
+e
+e
+n
+drink potion
+d
+d
+d
+d
+eat wall
+s
+get key
+d
+e
+wait b2 minutes
+get whistle
+blow whistle
+search robe
+get glasses
+open door
+w
+break ribbon
+drop key
+enter mirror
+yek teg
+rorrim retne
+e
+e
+e
+e
+u
+u
+hit door
+g
+g
+g
+g
+g
+g
+g
+g
+g
+g
+n
+get fruit
+open door
+n
+put fruit in drain
+turn knob
+get wooden key
+open speckled door
+n
+n
+spit south
+throw box south
+spit south
+n
+d
+d
+say storms
+e
+put ivory key in keyhole
