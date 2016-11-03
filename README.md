@@ -52,11 +52,8 @@ source code should be visible, and it should compile fine.  [Make sure
 that Inform's settings are are set to "Z5" as the target VM.]
 
 
-WARNING!!
-  ********************************************************************
-  ** DO NOT do any version control operations (commit, push,
-  ** and particularly, pull, update, and merge) while the Inform IDE 
-  ** is still open.  When the IDE 'saves', it destroys and recreates 
-  ** the whole pogoman-go.inform/ directory, thus possibly eradicating
-  ** and changes you may have downloaded. 
-  ********************************************************************
+WARNING:  DO NOT do any version control operations 
+(commit, push, and particularly, pull, update, and merge) 
+while the Inform IDE  is still open.  When the IDE 'saves',
+it destroys and recreates the whole Ninetenths.inform/ directory,
+thus possibly eradicating any changes you may have downloaded.
